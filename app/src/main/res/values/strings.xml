@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Flood</string>
+    <string name="temperature_and_humidity">temperature_and_humidity</string>
+    <string name="dashboard">dashboard</string>
+    <string name="flood_warning_message">flood_warning_message</string>
+    <string name="water_level">water_level</string>
+    <string name="water_flow">water_flow</string>
+    <string name="about">about</string>
+    <string name="faq">faq</string>
+    <string name="zemac">zemac</string>
+    <string name="create_new_account">create_new_account</string>
+    <string name="name">name</string>
+    <string name="mobile">mobile</string>
+    <string name="password">password</string>
+    <string name="email">email</string>
+    <string name="register">register</string>
+    <string name="already_registered_login_here">already_registered_login_here</string>
+    <string name="login_page">login_page</string>
+    <string name="login">login</string>
+    <string name="new_here_create_account">new_here_create_account</string>
+    <string name="logout">LOG OUT</string>
+</resources>
